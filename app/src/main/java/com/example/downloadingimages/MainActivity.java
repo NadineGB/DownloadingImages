@@ -53,7 +53,6 @@ public class MainActivity extends AppCompatActivity {
 
                 return myBitmap;
 
-
             } catch (Exception e) {
                 e.printStackTrace();
                 return null;
